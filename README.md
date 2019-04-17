@@ -8,13 +8,13 @@ Features:
 * Simple Inatallation (Just follow the #Installation Instructions)
 * Makes you look cool so you can show off your skins in game.
 
-#Installation:
+# Installation:
 
-#Credits:
+# Credits:
 
 This is a fork of [@EternalPhane](https://github.com/EternalPhane)'s [Minecraft texture pack of transparent armors](https://github.com/EternalPhane/transparent-armor-texture). His version only worked for Bedrock Edition, but with a couple of lines of code, and renaming of textures, I made it work for Java as well.
 
-#Minecraft Bedrock Edition:
+# Minecraft Bedrock Edition:
 
 This version only works on Minecraft Java Edition.
 
