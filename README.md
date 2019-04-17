@@ -6,7 +6,9 @@ Features:
 
 * Lightweight (Literally modifies only the armors, and nothing else. And the files are literally only Transparent Empty .png files)
 * Simple Inatallation (Just follow the #Installation Instructions)
+* No Need to Mod Anything, doesn't affect anything in a server.
 * Makes you look cool so you can show off your skins in game.
+* Comes in two flavors. One that shows off turtle helmets, the other where every armor is invisible.
 
 # Installation:
 
