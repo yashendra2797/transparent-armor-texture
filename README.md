@@ -5,12 +5,16 @@ With this simple texture pack you can hide those boring armors and reveal your a
 Features: 
 
 * Lightweight (Literally modifies only the armors, and nothing else. And the files are literally only Transparent Empty .png files)
-* Simple Inatallation (Just follow the #Installation Instructions)
+* Simple Inatallation (Just follow the # Installation Instructions)
 * No Need to Mod Anything, doesn't affect anything in a server.
 * Makes you look cool so you can show off your skins in game.
 * Comes in two flavors. One that shows off turtle helmets, the other where every armor is invisible.
 
 # Installation:
+
+1. Grab the latest release from [here](https://github.com/yashendra2797/transparent-armor-texture/releases/latest)
+2. Go to your `.minecraft` folder. If you don't know where it is, you can view this article on the Minecraft [website](https://help.minecraft.net/hc/en-us/articles/360035131551-Where-are-Minecraft-files-stored-)
+3. Navigate to the `resourcepacks` folder.
 
 # Credits:
 
